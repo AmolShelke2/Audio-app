@@ -29,4 +29,4 @@ how to reach me, email shelkeamol897@gmail.com, twitter Amol_shelke09
 ## Demo
 
 You can check the live app on the link that I mentioned below 
-* audio-app-ivory.vercel.app
+* https://audio-app-ivory.vercel.app/
